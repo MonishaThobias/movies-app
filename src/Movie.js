@@ -30,7 +30,6 @@ if(count===0)
 );
 
     return (
-
         <React.Fragment>
             <div className="table-responsive mt-2 pt-2">
      <p className="mt-3"> Showing <mark> {count} </mark> movies in the  database.</p>  
